@@ -39,7 +39,7 @@ Gradient Boosting:
 
 ## 📂 Files
 - `compas2d_final.ipynb` → Complete reproducible implementation
-- `COMPAS_2D_Digital_Alchemy_Report_Template1 (3).pdf` → Final written report
+- `COMPAS_2D_Digital_Alchemy_Report_final.pdf` → Final written report
 
 ## 🔁 Reproducibility
 All seeds and hyperparameters are fixed in the notebook.
